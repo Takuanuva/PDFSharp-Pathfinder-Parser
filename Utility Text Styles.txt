@@ -1,0 +1,11 @@
+
+Style properties: F2828430 [OlsenTF-Regular][1][FF000010][FF000000]
+characterProportionWithinDocument: 0.02190077
+pageOccurenceConsistency: 0.9982699
+occuringPageCharacterProportion: 0.03094159
+justificationStrength: 1
+columnElementCountInverse: 0.5
+columnNumberConsistency: 0
+columnWidthConsistency: 0.9998037
+textHeightRelation: 1
+columnTopPlacementConsistency: 0.5
